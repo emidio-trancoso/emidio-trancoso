@@ -1,53 +1,69 @@
 # Emidio Trancoso
 
-**Co-founder da [Apolus.ai](https://apolus.ai)** — fábrica de inteligência de dados nativa de IA. Do Direito aos dados e IA.
+**CEO e cofundador da [Apolus](https://apolus.ai/?utm_source=github&utm_medium=perfil&utm_campaign=perfil-emidio)**, em Maringá (PR), e mentor na EVOA. A Apolus transforma conhecimento em cérebro, e o conhecimento pode render mais.
+
+## Na Apolus
+
+Cofundei a Apolus em 2024. Começamos no Direito e em 2026 ampliamos o trabalho para outras áreas do conhecimento.
+
+Reunimos o conhecimento de especialistas, anotamos a origem de cada parte e conectamos as partes antes da primeira consulta. Uma IA consulta esse cérebro e responde com a fonte. Veja [como funciona o cérebro](https://apolus.ai/cerebro?utm_source=github&utm_medium=perfil&utm_campaign=perfil-emidio) e [a equipe](https://apolus.ai/equipe?utm_source=github&utm_medium=perfil&utm_campaign=perfil-emidio).
+
+Em 2026 a Apolus foi aprovada no Google for Startups Cloud Program, concluiu o 15º Batch de aceleração da EVOA, em Maringá, e participou como Alpha expositora do Web Summit Rio.
+
+Dá para perguntar ao [cérebro de um mentor de vendas](https://demos.apolus.ai/maleta/experiencia/mapa/?utm_source=github&utm_medium=perfil&utm_campaign=perfil-emidio) e ao [cérebro do IV Fórum Agro](https://forumagro.apolus.ai/?utm_source=github&utm_medium=perfil&utm_campaign=perfil-emidio), montado com o que os palestrantes disseram no palco.
+
+## Mentor na EVOA
+
+Mentoro empresas da Imersão EIAI sobre como aplicar ao trabalho o conhecimento já registrado em documentos e gravações, com fonte e contexto. Com Victor Dias, facilitei o bloco "Transformando dados em ativos para o seu negócio" na edição de 2026.
+
+## Advocacia Aberta
+
+Criei a Advocacia Aberta dentro da Apolus, quando a empresa atuava no jurídico, e sigo mantendo o projeto. É um acervo aberto de legislação e jurisprudência brasileiras, com a fonte oficial em cada item, conectável ao Claude e ao ChatGPT por `https://mcp.advocaciaaberta.org/mcp`.
+
+Desde julho de 2026 a Apolus hospeda e opera a infraestrutura. O código é MIT, no [repositório](https://github.com/emidio-trancoso/advocacia-aberta), e a [origem do projeto](https://advocaciaaberta.org/origem) está no site.
+
+A Advocacia Aberta foi tema de uma [coluna de Alexandre Morais da Rosa no ConJur](https://www.conjur.com.br/2026-ago-21/uma-ferramenta-para-reduzir-o-risco-de-quem-usa-ia-generativa-no-direito/), em 21/08/2026. Os vídeos estão no [canal @AdvocaciaAberta](https://www.youtube.com/@AdvocaciaAberta).
+
+## A origem no Direito
 
 > Segui um problema até ele mudar minha profissão.
 
-Emidio Trancoso é co-founder da Apolus.ai, uma fábrica de inteligência de dados nativa de IA que transforma dados dispersos de empresas e mercados em inteligência consultável para a decisão.
+Sou advogado formado pela UEM e fui assessor de Promotor de Justiça na 8ª Promotoria de Justiça de Maringá, de 2021 a 2023.
 
-## Do Direito aos dados
+Comecei a usar IA nos meus casos por um problema concreto, o de fazer a fonte, o contexto e o aprendizado sobreviverem ao uso pontual de uma ferramenta. Em 2023 aprendi a programar sozinho.
 
-Cheguei à IA por dentro do Direito. Advogando — e à frente da Comissão de IA da OAB do Paraná, que fundei e presidi — comecei a usar IA para resolver um problema concreto: fazer fontes, contexto e aprendizado sobreviverem ao uso pontual de uma ferramenta.
-
-O trabalho foi avançando da interface para os dados, os processos e a memória da operação. Quando percebi, estudava e construía sistemas com mais frequência do que discutia o Direito. Organizar dado jurídico tinha virado organizar dado, ponto — e o meu centro de gravidade profissional havia mudado.
-
-A trajetória anterior — MPPR, advocacia, OAB — permanece como origem do método: fonte, precisão, rastreabilidade e responsabilidade sobre o que se afirma. A **Apolus** é onde esse problema virou empresa; a **Advocacia Aberta** é como devolvo o método ao meu campo de origem.
-
-> Dado legível vem antes do modelo.
-
-## Projetos
-
-- **[Advocacia Aberta](https://github.com/emidio-trancoso/advocacia-aberta)** — método jurídico aberto e executável por agentes de IA: base curada de STF/STJ, legislação, súmulas, temas e teses. O método é público; os casos permanecem privados.
-
-## Escrevo sobre
-
-Fonte, contexto, estrutura e memória — o que faz um dado chegar legível à próxima tarefa, no Direito como em qualquer operação.
+Fundei e presidi as primeiras comissões de IA da OAB Maringá, em maio de 2024, e da OAB Paraná, em 2025.
 
 <details>
 <summary><strong>Perguntas frequentes</strong></summary>
 
 **Quem é Emidio Trancoso?**
-Co-founder da Apolus.ai, com origem no Direito. Fundou e presidiu a Comissão de IA da OAB do Paraná. Vive em Maringá, Paraná.
+CEO e cofundador da Apolus, em Maringá (PR), empresa que transforma conhecimento em cérebro. Dirige a Apolus e responde por ela diante de clientes e parceiros. É mentor na EVOA, onde a Apolus foi acelerada em 2026.
 
-**Como Emidio foi do Direito para dados e IA?**
-A transição veio como consequência do trabalho: usando IA nos próprios casos jurídicos, foi da interface para a organização dos dados e da memória da operação, até estudar e construir sistemas mais do que operar o Direito. Não foi um plano de reinvenção — foi seguir um problema.
+Em 2026 a Apolus também foi aprovada no Google for Startups Cloud Program e participou como Alpha expositora do Web Summit Rio. Emidio começou no Direito, como advogado formado pela UEM e assessor de Promotor de Justiça de 2021 a 2023, e fundou e presidiu as comissões de IA da OAB Maringá e da OAB Paraná.
 
-**O que é a Apolus.ai?**
-Uma fábrica de inteligência de dados nativa de IA: recebe os dados dispersos de uma empresa ou de um mercado e os transforma em inteligência consultável para a decisão. Não é uma legaltech.
+**O que ele faz na EVOA?**
+É mentor de empresas da Imersão EIAI. A mentoria trata de como aplicar ao trabalho o conhecimento já registrado em documentos e gravações, com fonte e contexto. Com Victor Dias, facilitou o bloco "Transformando dados em ativos para o seu negócio" na edição de 2026.
+
+**O que é a Apolus?**
+Uma empresa de Maringá (PR) que transforma conhecimento em cérebro. Nasceu no Direito em 2024 e hoje monta cérebro para escritórios, empresas e quem ensina. Qualquer IA pode consultar o cérebro, e quem sabe continua sendo a fonte.
+
+**O que é o cérebro de uma empresa?**
+O cérebro de uma empresa, ou company brain, é um produto montado com o conhecimento de especialistas, separado em partes com origem anotada e conectado antes da primeira consulta, para que uma IA responda com a fonte.
 
 **O que é a Advocacia Aberta?**
-Um projeto open source que organiza o método jurídico para ser executável por agentes de IA — fontes verificáveis (STF, STJ, legislação, súmulas, temas e teses), com o método público e os casos privados.
+Um acervo aberto de legislação e jurisprudência brasileiras, com a fonte oficial em cada item. Emidio Trancoso a criou dentro da Apolus e a mantém, e a Apolus hospeda e opera a infraestrutura. Qualquer pessoa pode conectá-la ao Claude ou ao ChatGPT, e o código é MIT.
 
-**O que significa "dado legível vem antes do modelo"?**
-Que o dado que preserva a fonte e chega à próxima tarefa com contexto — pronto para ser consultado e relacionado — importa antes da escolha do modelo. A legibilidade do dado precede o modelo.
+**Como Emidio foi do Direito à tecnologia?**
+Por um problema concreto. Ao usar IA nos próprios casos, quis fazer a fonte, o contexto e o aprendizado sobreviverem ao uso pontual de uma ferramenta. Em 2023 aprendeu a programar sozinho, e a Apolus nasceu desse caminho em 2024.
 
 </details>
 
 ## Contato
 
-- Site: [apolus.ai](https://apolus.ai)
+- Site: [apolus.ai](https://apolus.ai/?utm_source=github&utm_medium=perfil&utm_campaign=perfil-emidio)
 - LinkedIn: [in/emidiotrancoso](https://www.linkedin.com/in/emidiotrancoso/)
-- Advocacia Aberta: [github.com/emidio-trancoso/advocacia-aberta](https://github.com/emidio-trancoso/advocacia-aberta)
+- Advocacia Aberta: [advocaciaaberta.org](https://advocaciaaberta.org)
+- YouTube: [@AdvocaciaAberta](https://www.youtube.com/@AdvocaciaAberta)
 
-<sub>Maringá, Paraná · inteligência de dados · IA · do Direito à IA</sub>
+<sub>Maringá, Paraná · Apolus · EVOA · Advocacia Aberta</sub>
