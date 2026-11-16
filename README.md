@@ -1,6 +1,8 @@
 # Emidio Trancoso
 
-**CEO e cofundador da [Apolus](https://apolus.ai/?utm_source=github&utm_medium=perfil&utm_campaign=perfil-emidio)**, em Maringá (PR), e mentor na EVOA. A Apolus transforma conhecimento em cérebro, e o conhecimento pode render mais.
+**CEO e cofundador da [Apolus](https://apolus.ai/?utm_source=github&utm_medium=perfil&utm_campaign=perfil-emidio)**, em Maringá (PR), e mentor na EVOA.
+
+Acredito que o conhecimento pode render mais. Para isso, construímos a Apolus e transformamos conhecimento em cérebro.
 
 ## Na Apolus
 
@@ -38,7 +40,7 @@ Fundei e presidi as primeiras comissões de IA da OAB Maringá, em maio de 2024,
 <summary><strong>Perguntas frequentes</strong></summary>
 
 **Quem é Emidio Trancoso?**
-CEO e cofundador da Apolus, em Maringá (PR), empresa que transforma conhecimento em cérebro. Dirige a Apolus e responde por ela diante de clientes e parceiros. É mentor na EVOA, onde a Apolus foi acelerada em 2026.
+CEO e cofundador da Apolus, em Maringá (PR), dirige a empresa e responde por ela diante de clientes e parceiros. Acredita que o conhecimento pode render mais, e para isso a Apolus o transforma em cérebro. É mentor na EVOA, onde a empresa foi acelerada em 2026.
 
 Em 2026 a Apolus também foi aprovada no Google for Startups Cloud Program e participou como Alpha expositora do Web Summit Rio. Emidio começou no Direito, como advogado formado pela UEM e assessor de Promotor de Justiça de 2021 a 2023, e fundou e presidiu as comissões de IA da OAB Maringá e da OAB Paraná.
 
